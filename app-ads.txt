@@ -3,7 +3,7 @@ appodeal.com, 31107, DIRECT
 #BidMachine
 bidmachine.io, 31107, DIRECT
 #AdMob
-#Copy Admob's app-ads.txt entry from your Admob dashboard
+google.com, pub-1316069897152212, DIRECT, f08c47fec0942fa0
 #Facebook
 #Replace the Business ID below with your Facebook Business ID
 facebook.com, Business ID, RESELLER, c3e20eee3f780d68
